@@ -11,7 +11,7 @@
 <p>
 I am a frontend developer, love to create and learn new things.</p>
 <p>
--🔭I'm currently working on SPA</p>
+-🔭I'm currently creating SPA (training english)</p>
 <p>
 -🌱I'm currently learning React.js, Webpack, improving HTML, CSS, JS</p>
 <p>
