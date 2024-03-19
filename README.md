@@ -5,6 +5,7 @@
 </div>
 
 ---
+
 <p>
 :woman_technologist: About me:</p>
 <p>
@@ -14,7 +15,7 @@ I am a frontend developer, love to create and learn new things.</p>
 <p>
 -🌱I'm currently learning React.js, Webpack, improving HTML, CSS, JS</p>
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/elena-romanova-3b21132b0/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
 
 ---
 
@@ -32,12 +33,13 @@ I am a frontend developer, love to create and learn new things.</p>
 
 ---
 
-:fire: My Stats :
+🔥My stats:
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=eeromanova&theme=white&background=ffffff)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eeromanova&layout=compact&theme=vision-friendly-light)](https://github.com/anuraghazra/github-readme-stats)
   
+---
 
 <!--
 **eeromanova/eeromanova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
