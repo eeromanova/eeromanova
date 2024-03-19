@@ -14,6 +14,9 @@ I am a frontend developer, love to create and learn new things.</p>
 -🔭I'm currently working on SPA</p>
 <p>
 -🌱I'm currently learning React.js, Webpack, improving HTML, CSS, JS</p>
+<p>
+  -🗨️ Ask me about yoga, jogging or specialty coffee
+</p>
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/elena-romanova-3b21132b0/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
 
