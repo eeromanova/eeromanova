@@ -13,7 +13,7 @@ I am a frontend developer, love to create and learn new things.</p>
 <p>
 -🔭I'm currently paticipating in 5D HUB project (develop site using Next.JS, TS)</p>
 <p>
--🌱I'm improving further React.js, HTML, CSS, JS</p>
+-🌱I'm improving further React.js, HTML, CSS (SCSS), JS</p>
 <p>
   -🗨️ Ask me about yoga, traveling or specialty coffee
 </p>
